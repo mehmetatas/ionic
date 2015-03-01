@@ -1,0 +1,6 @@
+E:\github\mehmetatas\ionic\ionic\bin\ionic.dll.config
+E:\github\mehmetatas\ionic\ionic\bin\ionic.dll
+E:\github\mehmetatas\ionic\ionic\bin\ionic.pdb
+E:\github\mehmetatas\ionic\ionic\obj\Debug\ionic.dll
+E:\github\mehmetatas\ionic\ionic\obj\Debug\ionic.pdb
+E:\github\mehmetatas\ionic\ionic\obj\Debug\ionic.csprojResolveAssemblyReference.cache
